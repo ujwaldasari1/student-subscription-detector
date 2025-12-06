@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/secrets.toml
+
+# User data (privacy)
+*.csv
+!sample_bank_statement.csv
+
+# Logs
+*.log
+
+# Distribution
+dist/
+build/
+*.egg-info/

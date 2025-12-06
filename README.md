@@ -1,5 +1,11 @@
 # 💸 Student Subscription Waste Detector
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://student-subscription-detector-6hjrqczujaftfvjsvuapmx.streamlit.app/)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+
+> **[🚀 Try the Live Demo](https://student-subscription-detector-6hjrqczujaftfvjsvuapmx.streamlit.app/)** — No installation required!
+
 A privacy-first tool that helps students identify and optimize their subscription spending.
 
 ## Features
@@ -161,6 +167,16 @@ subscription_detector/
 - [ ] Export results as PDF report
 - [ ] University partnership integrations
 
+## Contributing
+
+We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+
+**Priority areas:**
+- Adding more subscription services
+- Supporting additional file formats (OFX, QFX)
+- UI/UX improvements
+- Writing tests
+
 ## Team
 
 Built for Weekend Hackathon 2025 | Data Science & Analytics
@@ -170,6 +186,12 @@ Built for Weekend Hackathon 2025 | Data Science & Analytics
 - **Christian Rodas** - Financial Data Analyst
 - **Namra Joshi** - Data Analyst
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ---
 
 **Stop the leak. Start the growth.** 💰
+
+⭐ Star this repo if you found it helpful!
